@@ -1,4 +1,4 @@
-![MasterHead](https://taglineinfotech.com/wp-content/uploads/2023/02/Full-Stack-Development-1-1024x328.png)
+![MasterHead](https://s3.ap-south-1.amazonaws.com/stage.radixweb.com/banner_image_9bba12f2c6.jpg)
 
 <h1 align="center">Hi 👋, I'm prashanth-kj</h1>
 <h3 align="center">A passionate FullStack Developer(MERN)</h3>
